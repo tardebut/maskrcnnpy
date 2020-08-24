@@ -1,6 +1,6 @@
 # Mask R-CNN for Object Detection and Segmentation
 
-OMAR GUTIERREZ ARENAS: THIS BEGINS BEING A COPY OF THE MASK-RCNN REPOSITORY FOUND AT https://github.com/matterport/Mask_RCNN.git WHICH WAS RELEASED BY THE AUTHOR UNDER A MIT LICENSE.
+OMAR GUTIERREZ ARENAS: ON AUGUST 24TH OF 2020, THIS BEGINS BEING A COPY OF THE MASK-RCNN REPOSITORY FOUND AT https://github.com/matterport/Mask_RCNN.git WHICH WAS RELEASED BY THE AUTHOR UNDER A MIT LICENSE.
 
 This is an implementation of [Mask R-CNN](https://arxiv.org/abs/1703.06870) on Python 3, Keras, and TensorFlow. The model generates bounding boxes and segmentation masks for each instance of an object in the image. It's based on Feature Pyramid Network (FPN) and a ResNet101 backbone.
 
